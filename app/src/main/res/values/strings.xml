@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Pokédex</string>
+
+    // Categories
+    <string name="cat_all">Todos</string>
+    <string name="cat_electric">Elétrico</string>
+    <string name="cat_fire">Fogo</string>
+    <string name="cat_grass">Grama</string>
+    <string name="cat_insect">Inseto</string>
+
 </resources>

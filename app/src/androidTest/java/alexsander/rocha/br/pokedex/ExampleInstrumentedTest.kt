@@ -1,4 +1,4 @@
-package alexsander.rocha.br.pokdex
+package alexsander.rocha.br.pokedex
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("alexsander.rocha.br.pokdex", appContext.packageName)
+        assertEquals("alexsander.rocha.br.pokedex", appContext.packageName)
     }
 }

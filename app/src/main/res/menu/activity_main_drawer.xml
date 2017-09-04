@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all"
+            android:title="@string/cat_all"
+            android:checked="true"/>
+        <item
+            android:id="@+id/nav_electric"
+            android:title="@string/cat_electric" />
+        <item
+            android:id="@+id/nav_fire"
+            android:title="@string/cat_fire" />
+        <item
+            android:id="@+id/nav_grass"
+            android:title="@string/cat_grass" />
+        <item
+            android:id="@+id/nav_insect"
+            android:title="@string/cat_insect" />
+    </group>
+
+</menu>

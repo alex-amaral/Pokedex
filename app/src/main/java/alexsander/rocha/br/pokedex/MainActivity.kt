@@ -1,4 +1,4 @@
-package alexsander.rocha.br.pokdex
+package alexsander.rocha.br.pokedex
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
